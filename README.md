@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 -->
- [![Twitter: HamzaElyousfi8](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/HamzaElyousfi8)
+ [![Twitter: HamzaElyousfi8](https://img.shields.io/twitter/follow/hamza?style=social)](https://twitter.com/HamzaElyousfi8)
 [![Linkedin: hamza-elyousfi-015617193](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamza-elyousfi-015617193/)](https://www.linkedin.com/in/hamza-elyousfi-015617193/)
 [![GitHub hamzael94-gif](https://img.shields.io/github/followers/hamzael94-gif?label=follow&style=social)](https://github.com/iampawan)
 [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
+<a href="https://app.daily.dev/HamzaL3k"><img src="https://api.daily.dev/devcards/2e38e78ea6ab47f8a88bd5285288ff2f.png?r=apt" width="400" alt="Hamza El yousfi's Dev Card"/></a>
